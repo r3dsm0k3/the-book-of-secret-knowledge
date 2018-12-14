@@ -462,7 +462,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all that things I need to pass OSCP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/secfigo/Awesome-Fuzzing"><b>Awesome Fuzzing and related tools.</b></a> - list of a Free Security and Hacking eBooks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/secfigo/Awesome-Fuzzing"><b>Awesome Fuzzing.</b></a> - A curated list of fuzzing resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Penetration Testing Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical information about the many different variants of the SQL Injection.<br>
